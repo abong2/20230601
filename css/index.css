@@ -160,6 +160,9 @@ header ul li a{
     text-align: center;
     font-weight: 600;
 }
+header ul li a:hover{
+    border-bottom: 1px solid #29624f;
+}
 .icon a{
 font-size: 20px;
 margin-right: 15px;
